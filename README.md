@@ -1,6 +1,6 @@
 # EduBright Microservices Project
 
-## 📌 Overview
+##  Overview
 **EduBright** is a microservices-based education platform that provides course management, enrollment services, and a gateway for secure API communication. This project follows the **Spring Boot & Spring Cloud** ecosystem, utilizing **Eureka Service Discovery**, **Spring Cloud Gateway**, **Config Server**, and database persistence with **JPA & MySQL**.
 
 ## 🏗️ Architecture
