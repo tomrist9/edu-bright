@@ -3,7 +3,7 @@
 ##  Overview
 **EduBright** is a microservices-based education platform that provides course management, enrollment services, and a gateway for secure API communication. This project follows the **Spring Boot & Spring Cloud** ecosystem, utilizing **Eureka Service Discovery**, **Spring Cloud Gateway**, **Config Server**, and database persistence with **JPA & MySQL**.
 
-## 🏗️ Architecture
+##  Architecture
 EduBright is built using **microservices architecture** and includes the following services:
 
 ### **🔹 Microservices Overview**
@@ -16,7 +16,7 @@ EduBright is built using **microservices architecture** and includes the followi
 | **Config Server**   | Centralized configuration management          | 8888 |
 | **Eureka Server**   | Service registry & discovery                  | 8761 |
 
-## 🚀 Technologies Used
+##  Technologies Used
 ### **Backend Technologies**
 - **Java 17**
 - **Spring Boot 3.1** (Microservices Framework)
